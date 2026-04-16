@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: zakmaarifi/calculator:latest
+          tags: riazaka/calculator:latest
